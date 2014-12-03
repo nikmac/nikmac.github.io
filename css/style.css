@@ -372,7 +372,14 @@ section h3.section-subheading {
     margin-top: 1em;
 }
 
+.image-can {
+    height: 210px;
+    text-align: center;
+}
 
+.image-can img {
+  max-width: 100%;
+}
 
 
 .skillstar {
@@ -436,6 +443,10 @@ section h3.section-subheading {
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
     margin: 0;
+}
+
+.portfolio-caption {
+    height: 70px;
 }
 
 #portfolio .portfolio-item .portfolio-caption {
